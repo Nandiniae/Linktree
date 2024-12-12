@@ -43,6 +43,15 @@ body {
 	font-size: small;
 }
 
+.buy {
+	text-align: center;
+	margin: 27px auto;
+	margin-top: 10px;
+	width: 90%;
+	max-width: 500px;
+	font-size: big;
+}
+
 .sourceLink {
 	color: var(--accentColor);
 	text-decoration: none;
